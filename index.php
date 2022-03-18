@@ -6,7 +6,7 @@ $phone = ''; //เบอร์โทรศัพท์
 if(empty($link)){
     // ลิงก์ว่างเปล่า
 }else{
-    require_once("wallet.php");
+    require_once("./wallet.php");
     $topup_truewallet = new topup();
     $truewallet = (object) $topup_truewallet->giftcode($link ,$phone);
 
