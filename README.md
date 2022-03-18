@@ -12,10 +12,10 @@ This code has been modified. and add more tests from old code which I encountere
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages:
-PHP                    18 hrs 45 mins      █████████████████░░░░░░░░   100%
+PHP                    █████████████████   100%
 
 🔥 Editors:
-VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   100%
+VS Code                █████████████████   100%
 
 ```
 
